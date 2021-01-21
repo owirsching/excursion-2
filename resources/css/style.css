@@ -2,6 +2,7 @@ html {
     font-family: Verdana;
     color: white;
     font-weight: normal;
+    text-align: center;
 }
 
 body {
@@ -26,4 +27,13 @@ a {
 .text {
     font-size: 21px;
     color: #808080;
+}
+
+footer {
+    float: right;
+    padding-bottom: 15px;
+}
+
+i {
+    padding-right: 5px;
 }
